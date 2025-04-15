@@ -1,4 +1,4 @@
-# Trabalho de Programação Web /  BlueVelvet Music Store
+# Trabalho de Programação Web / Music Store
 
 
 Este reporsitório foi criado para realizar o trabalho da disciplina Programação Web
